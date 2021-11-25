@@ -16,3 +16,6 @@ Pulled directly from my brain. If you have suggestions, please suggest.
 
 ### Python
 - [ ] Discord bot for plotting (Python bot, Rust webserver)
+
+### HTML/CSS
+- [ ] Blog thing (webassembly, maybe?)
