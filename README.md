@@ -2,7 +2,8 @@
 
 Pulled directly from my brain. If you have suggestions, please suggest.
 
-### Rust
+Projects are not in order of doing. They will be done eventually.
+
 - [x] Twitch TUI
 - [ ] Timezone tracker
 - [ ] Reddit TUI
@@ -10,12 +11,8 @@ Pulled directly from my brain. If you have suggestions, please suggest.
 - [ ] `git diff` statistics
 - [ ] Markdown table generator
 - [ ] Audio visualizer
-
-### C++
+- [ ] Blog in WASM
+- [ ] Decentralized chat IRC
 - [ ] Mapping stars on a 2d plane
-
-### Python
 - [ ] Discord bot for plotting (Python bot, Rust webserver)
 
-### HTML/CSS
-- [ ] Blog thing (webassembly, maybe?)
