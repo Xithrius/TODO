@@ -15,4 +15,4 @@ Projects are not in order of doing. They will be done eventually.
 - [ ] Decentralized chat IRC
 - [ ] Mapping stars on a 2d plane
 - [ ] Discord bot for plotting (Python bot, Rust webserver)
-
+- [ ] Cross-platform system monitor
