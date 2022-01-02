@@ -8,7 +8,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - Complete one of the years for [AoC](https://adventofcode.com/) (before the 2022 event starts)
 - Survive
 
-### Projects:
+### Projects (not necessary to be done this year):
 - [x] Twitch TUI
 - [ ] Timezone tracker
 - [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
