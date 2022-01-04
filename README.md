@@ -13,7 +13,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Timezone tracker
 - [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
 - [ ] GitHub bot for analyzing merged PRs
-- [ ] `git diff` statistics
+- [ ] `git diff` statistics (bot? crate?)
 - [ ] Markdown table generator
 - [ ] Audio visualizer
 - [ ] Decentralized chat IRC
