@@ -20,3 +20,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Mapping stars on a 2d plane
 - [ ] Discord bot for plotting (Python bot, Rust webserver)
 - [ ] Cross-platform system monitor
+- [ ] Contribution tracker
