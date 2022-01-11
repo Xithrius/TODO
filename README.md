@@ -22,3 +22,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Cross-platform system monitor
 - [ ] Contribution tracker
 - [ ] Private GitLab server with CI/CD
+- [ ] Gameboy emulator
