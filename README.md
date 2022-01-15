@@ -3,10 +3,10 @@
 Pulled directly from my brain. If you have suggestions, [create an issue](https://github.com/Xithrius/TODO/issues/new).
 
 ### 2022 Objectives (made before the year starts):
-- A year-long contribution streak (attempts: 1)
-- Create a very simple blog with a nice font
-- Complete one of the years for [AoC](https://adventofcode.com/) (before the 2022 event starts)
-- Survive
+- [ ] A year-long contribution streak (attempts: 1)
+- [ ] Create a website with multiple subdomains for different services.
+- [ ] Complete one of the years for [AoC](https://adventofcode.com/) (before the 2022 event starts)
+- [ ] Survive
 
 ### Projects (not necessary to be done this year):
 - [x] Twitch TUI
