@@ -21,5 +21,6 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Discord bot for plotting (Python bot, Rust webserver)
 - [ ] Cross-platform system monitor
 - [ ] Contribution tracker
-- [ ] Private GitLab server with CI/CD
+- [x] GitLab server
+  - [ ] with CI/CD 
 - [ ] Gameboy emulator
