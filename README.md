@@ -9,12 +9,12 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Survive
 
 ### Projects (not necessary to be done this year):
-- [x] Twitch TUI
+- [x] [Twitch TUI](https://github.com/Xithrius/twitch-tui)
 - [ ] Timezone tracker
 - [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
 - [ ] GitHub bot for analyzing merged PRs
-- [ ] `git diff` statistics (bot? crate?)
-- [ ] Markdown table generator
+- [ ] `git diff` statistics (Bot? Crate? Both?)
+- [x] [Markdown table generator](https://github.com/Xithrius/markdown-table-rs)
 - [ ] Audio visualizer
 - [ ] Decentralized chat IRC
 - [ ] Mapping stars on a 2d plane
