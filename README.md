@@ -24,3 +24,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [x] GitLab server
   - [ ] with CI/CD 
 - [ ] Gameboy emulator
+- [ ] Better Reddit search
