@@ -25,3 +25,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] with CI/CD 
 - [ ] Gameboy emulator
 - [ ] Better Reddit search
+
+### Project names (for the future):
+- Calamity
+- Corrosion
