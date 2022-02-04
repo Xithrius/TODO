@@ -4,11 +4,11 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 
 ### 2022 Objectives (made before the year starts):
 - [ ] A year-long contribution streak (attempts: 1)
-- [ ] Create a website with multiple subdomains for different services.
+- [x] [Create a website with multiple subdomains for different services](https://github.com/Xithrius/xithrius.cloud)
 - [ ] Complete one of the years for [AoC](https://adventofcode.com/) (before the 2022 event starts)
 - [ ] Survive
 
-### Projects (not necessary to be done this year):
+### Projects:
 - [x] [Twitch TUI](https://github.com/Xithrius/twitch-tui)
 - [ ] Timezone tracker
 - [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
@@ -25,7 +25,8 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] with CI/CD 
 - [ ] Gameboy emulator
 - [ ] Better Reddit search
+- [ ] RISCV emulator
 
-### Project names (for the future):
+### Possible project names:
 - Calamity
 - Corrosion
