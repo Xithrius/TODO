@@ -20,7 +20,10 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Audio visualizer
 - [ ] Decentralized chat IRC
 - [ ] Mapping stars on a 2d plane
-- [ ] Discord bot for plotting (Python bot, Rust webserver)
+- [ ] Discord bot for plotting
+  - [ ] Lexer in Rust for parsing and processing math expressions
+  - [ ] Discord bot in Python for requesting from the Rust webserver
+  - [ ] Webserver in Rust to handle all the requests
 - [ ] Cross-platform system monitor
 - [ ] Contribution tracker
 - [x] GitLab server
