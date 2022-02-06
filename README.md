@@ -13,7 +13,9 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Timezone tracker
 - [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
 - [ ] GitHub bot for analyzing merged PRs
-- [ ] `git diff` statistics (Bot? Crate? Both?)
+- [ ] `git diff` statistics
+  - [ ] [bot](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written.
+  - [ ] A crate in Rust 
 - [x] [Markdown table generator](https://github.com/Xithrius/markdown-table-rs)
 - [ ] Audio visualizer
 - [ ] Decentralized chat IRC
