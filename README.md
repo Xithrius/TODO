@@ -14,7 +14,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
 - [ ] GitHub bot for analyzing merged PRs
 - [ ] `git diff` statistics
-  - [ ] [bot](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written.
+  - [ ] [bot](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written. Using the Rust Org's [triage bot](https://github.com/rust-lang/triagebot/) for reference.
   - [ ] A crate in Rust 
 - [x] [Markdown table generator](https://github.com/Xithrius/markdown-table-rs)
 - [ ] Audio visualizer
