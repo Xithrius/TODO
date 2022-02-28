@@ -27,7 +27,6 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Cross-platform system monitor
 - [ ] Contribution tracker
 - [x] GitLab server
-  - [ ] with CI/CD 
 - [ ] Gameboy emulator
 - [ ] Better Reddit search
 - [ ] RISCV emulator
