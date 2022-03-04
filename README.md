@@ -10,12 +10,12 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 
 ### Projects:
 - [x] [Twitch TUI](https://github.com/Xithrius/twitch-tui)
-  - [ ] Create extensive documentation through [mdBook](https://github.com/rust-lang/mdBook). 
+  - [ ] Create extensive documentation through [mdBook](https://github.com/rust-lang/mdBook) 
 - [ ] Timezone tracker
 - [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
 - [ ] GitHub bot for analyzing merged PRs
 - [ ] `git diff` statistics
-  - [ ] [bot](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written. Using the Rust Org's [triage bot](https://github.com/rust-lang/triagebot/) for reference.
+  - [ ] [bot](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written. Using the Rust Org's [triage bot](https://github.com/rust-lang/triagebot/) for reference
   - [ ] A crate in Rust 
 - [x] [Markdown table generator](https://github.com/Xithrius/markdown-table-rs)
 - [ ] Decentralized chat IRC
@@ -30,6 +30,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Gameboy emulator
 - [ ] Better Reddit search
 - [ ] RISCV emulator
+- [ ] Website for rust project with `.rs` extension
 
 ### Possible project names:
 - Calamity
