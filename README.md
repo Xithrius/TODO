@@ -31,6 +31,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Better Reddit search
 - [ ] RISCV emulator
 - [ ] Website for rust project with `.rs` extension
+- [ ] File explorer
 
 ### Possible project names:
 - Calamity
