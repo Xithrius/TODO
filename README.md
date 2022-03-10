@@ -3,7 +3,7 @@
 Pulled directly from my brain. If you have suggestions, [create an issue](https://github.com/Xithrius/TODO/issues/new).
 
 ### 2022 Objectives (made before the year starts):
-- [ ] A year-long contribution streak (attempts: 1)
+- [ ] A year-long contribution streak (attempts: 1), even if it's 1 commit a day on this TODO repository
 - [x] [Create a website with multiple subdomains for different services](https://github.com/Xithrius/xithrius.cloud)
 - [ ] Complete one of the years for [AoC](https://adventofcode.com/) (before the 2022 event starts)
 - [ ] Survive
@@ -14,9 +14,10 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Timezone tracker
 - [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
 - [ ] GitHub bot for analyzing merged PRs
-- [ ] `git diff` statistics
-  - [ ] [bot](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written. Using the Rust Org's [triage bot](https://github.com/rust-lang/triagebot/) for reference
-  - [ ] A crate in Rust 
+- [ ] `git diff`/PR statistics bot
+  - [ ] Using the [Xyrrokkin repository](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written using the Rust Org's [triage bot](https://github.com/rust-lang/triagebot/) for reference  
+  - [ ] Automatic metrics disabled by default
+  - [ ] Pingable for commands, which includes enabling automatic metrics 
 - [x] [Markdown table generator](https://github.com/Xithrius/markdown-table-rs)
 - [ ] Decentralized chat IRC
 - [ ] Mapping stars on a 2d plane
