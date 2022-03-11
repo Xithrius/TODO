@@ -25,7 +25,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] Lexer in Rust for parsing and processing math expressions
   - [ ] Discord bot in Python for requesting from the Rust webserver
   - [ ] Webserver in Rust to handle all the requests
-- [ ] Cross-platform system monitor
+- [ ] Cross-platform system monitor in C#
 - [ ] Contribution tracker
 - [x] GitLab server
 - [ ] Gameboy emulator
