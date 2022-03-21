@@ -34,6 +34,10 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Website for rust project with `.rs` extension
 - [ ] File explorer
 - [ ] Do something with [wpu](https://docs.rs/wgpu/0.12.0/wgpu/). [Here](https://sotrh.github.io/learn-wgpu/beginner/tutorial1-window/) is a tutorial.
+- [ ] Make guides on website, such as the following:
+  - [ ] Setting up webhooks
+  - [ ] Template repositories
+  - [ ] Arch Linux customization
 
 ### Possible project names:
 - Calamity
