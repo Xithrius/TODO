@@ -35,9 +35,11 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] File explorer
 - [ ] Do something with [wpu](https://docs.rs/wgpu/0.12.0/wgpu/). [Here](https://sotrh.github.io/learn-wgpu/beginner/tutorial1-window/) is a tutorial.
 - [ ] Make guides on website, such as the following:
-  - [ ] Setting up webhooks
+  - [ ] Setting up webhooks on Github/Discord
   - [ ] Template repositories
   - [ ] Arch Linux customization
+  - [ ] SSH key caching for git
+  - [ ] A better vanilla Minecraft experience (FPS, stability, QOL, etc)
 
 ### Possible project names:
 - Calamity
