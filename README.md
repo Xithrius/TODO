@@ -41,7 +41,3 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] SSH key caching for git
   - [ ] A better vanilla Minecraft experience (FPS, stability, QOL, etc)
 - [ ] Weather GUI application with OpenWeatherMap
-
-### Possible project names:
-- Calamity
-- Corrosion
