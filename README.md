@@ -42,3 +42,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] A better vanilla Minecraft experience (FPS, stability, QOL, etc)
 - [ ] Weather GUI application with OpenWeatherMap
 - [ ] Detect room temperature with ESP32 module, temp/humidity sensor
+  - [ ] During the summer, acquire window fan to be controlled with previously said electronics 
