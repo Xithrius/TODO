@@ -19,7 +19,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] Automatic metrics disabled by default
   - [ ] Pingable for commands, which includes enabling automatic metrics 
 - [x] [Markdown table generator](https://github.com/Xithrius/markdown-table-rs)
-- [ ] Decentralized chat IRC
+- [ ] IRC
 - [ ] Mapping stars on a 2d plane
 - [ ] Discord bot for plotting
   - [ ] Lexer in Rust for parsing and processing math expressions
