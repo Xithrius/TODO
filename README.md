@@ -45,4 +45,5 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] During the summer, acquire window fan to be controlled with previously said electronics
 - [ ] Actually do something with Haskell after learning a large amount of Lambda Calculus
 - [ ] Make keybind in i3wm to switch between different configs, with auto-reloading
+  - [ ] This can be done with symlinks  
 - [ ] [gitea](https://docs.gitea.io/en-us) server, because GitLab took too much system resources
