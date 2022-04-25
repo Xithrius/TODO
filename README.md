@@ -47,3 +47,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Make keybind in i3wm to switch between different configs, with auto-reloading
   - [ ] This can be done with symlinks  
 - [ ] [gitea](https://docs.gitea.io/en-us) server, because GitLab took too much system resources
+- [ ] X11 API ports in Rust?
