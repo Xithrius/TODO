@@ -48,3 +48,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] This can be done with symlinks  
 - [ ] [gitea](https://docs.gitea.io/en-us) server, because GitLab took too much system resources
 - [ ] X11 API ports in Rust?
+- [ ] Create own [polybar](https://github.com/polybar/polybar) theme
