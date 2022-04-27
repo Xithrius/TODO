@@ -12,7 +12,6 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [x] [Twitch TUI](https://github.com/Xithrius/twitch-tui)
   - [ ] Create extensive documentation through [mdBook](https://github.com/rust-lang/mdBook) 
 - [ ] Timezone tracker
-- [ ] Reddit API wrapper ([oh no](https://www.reddit.com/dev/api))
 - [ ] GitHub bot for analyzing merged PRs
 - [ ] `git diff`/PR statistics bot
   - [ ] Using the [Xyrrokkin repository](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written using the Rust Org's [triage bot](https://github.com/rust-lang/triagebot/) for reference  
@@ -29,7 +28,6 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Contribution tracker
 - [x] GitLab server
 - [ ] Gameboy emulator
-- [ ] Better Reddit search
 - [ ] RISCV emulator
 - [ ] Website for rust project with `.rs` extension
 - [ ] File explorer
@@ -46,6 +44,6 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Actually do something with Haskell after learning a large amount of Lambda Calculus
 - [ ] Make keybind in i3wm to switch between different configs, with auto-reloading
   - [ ] This can be done with symlinks  
-- [ ] [gitea](https://docs.gitea.io/en-us) server, because GitLab took too much system resources
+- [x] [gitea](https://docs.gitea.io/en-us) server, because GitLab took too much system resources
 - [ ] X11 API ports in Rust?
 - [ ] Create own [polybar](https://github.com/polybar/polybar) theme
