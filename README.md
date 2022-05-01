@@ -10,7 +10,6 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 
 ### Projects:
 - [x] [Twitch TUI](https://github.com/Xithrius/twitch-tui)
-  - [ ] Create extensive documentation through [mdBook](https://github.com/rust-lang/mdBook) 
 - [ ] Timezone tracker
 - [ ] GitHub bot for analyzing merged PRs
 - [ ] `git diff`/PR statistics bot
@@ -24,12 +23,9 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] Lexer in Rust for parsing and processing math expressions
   - [ ] Discord bot in Python for requesting from the Rust webserver
   - [ ] Webserver in Rust to handle all the requests
-- [ ] Cross-platform system monitor in C#
-- [ ] Contribution tracker
 - [x] GitLab server
 - [ ] Gameboy emulator
 - [ ] RISCV emulator
-- [ ] Website for rust project with `.rs` extension
 - [ ] File explorer
 - [ ] Do something with [wpu](https://docs.rs/wgpu/0.12.0/wgpu/). [Here](https://sotrh.github.io/learn-wgpu/beginner/tutorial1-window/) is a tutorial.
 - [ ] Make guides on website, such as the following (with static page generator(s)):
@@ -38,12 +34,10 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] Arch Linux customization
   - [ ] SSH key caching for git
   - [ ] A better vanilla Minecraft experience (FPS, stability, QOL, etc)
-- [ ] Weather GUI application with OpenWeatherMap
 - [ ] Detect room temperature with ESP32 module, temp/humidity sensor
   - [ ] During the summer, acquire window fan to be controlled with previously said electronics
-- [ ] Actually do something with Haskell after learning a large amount of Lambda Calculus
 - [ ] Make keybind in i3wm to switch between different configs, with auto-reloading
-  - [ ] This can be done with symlinks  
+  - [ ] This can be done with symlinks
 - [x] [gitea](https://docs.gitea.io/en-us) server, because GitLab took too much system resources
 - [ ] X11 API ports in Rust?
 - [ ] Create own [polybar](https://github.com/polybar/polybar) theme
