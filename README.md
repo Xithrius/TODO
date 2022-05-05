@@ -37,3 +37,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] X11 API ports in Rust?
 - [ ] Create own [polybar](https://github.com/polybar/polybar) theme
 - [ ] Audio equalizer
+- [ ] Benchmarker for binaries
