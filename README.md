@@ -38,3 +38,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Create own [polybar](https://github.com/polybar/polybar) theme
 - [ ] Audio equalizer
 - [ ] Benchmarker for binaries
+- [ ] Contribute to an X11 project in C. Good luck.
