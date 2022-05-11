@@ -42,3 +42,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Benchmarker for binaries
 - [ ] Contribute to an X11 project in C
 - [ ] Make a mod in some game
+- [ ] Rust TUI template
