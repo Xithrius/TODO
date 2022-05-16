@@ -43,3 +43,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Contribute to an X11 project in C
 - [ ] Make a mod in some game
 - [ ] Rust TUI template
+- [ ] Interpreter for own language
