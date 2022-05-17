@@ -44,3 +44,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Make a mod in some game
 - [ ] Rust TUI template
 - [ ] Interpreter for own language
+- [ ] GitHub label templates with a bot or browser extension
