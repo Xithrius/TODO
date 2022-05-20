@@ -37,7 +37,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] Add the [woodpecker-ci](https://github.com/woodpecker-ci/woodpecker) system
   - [ ] Get a bunch of integrations from the [gitea-awesome](https://gitea.com/gitea/awesome-gitea) list
 - [ ] X11 API ports in Rust?
-- [ ] Create own [polybar](https://github.com/polybar/polybar) theme
+- [x] Create own [polybar](https://github.com/polybar/polybar) theme
 - [ ] Audio equalizer
 - [ ] Benchmarker for binaries
 - [ ] Contribute to an X11 project in C
