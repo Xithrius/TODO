@@ -45,3 +45,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Rust TUI template
 - [ ] Interpreter for own language
 - [ ] GitHub label templates with a bot or browser extension
+- [ ] Contribute to GitHub repository which contains at least 1,000 stars
