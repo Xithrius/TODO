@@ -46,3 +46,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Interpreter for own language
 - [ ] GitHub label templates with a bot or browser extension
 - [ ] Contribute to GitHub repository which contains at least 1,000 stars
+- [ ] Create a repository for data structures in different languages
