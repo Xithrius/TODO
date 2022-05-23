@@ -47,3 +47,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] GitHub label templates with a bot or browser extension
 - [ ] Contribute to GitHub repository which contains at least 1,000 stars
 - [ ] Create a repository for data structures in different languages
+- [ ] A simple website which just counts up from unix time
