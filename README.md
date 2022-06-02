@@ -48,3 +48,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Contribute to GitHub repository which contains at least 1,000 stars
 - [ ] Create a repository for data structures in different languages
 - [ ] A simple website which just counts up from unix time
+- [ ] Make something with FastAPI, because I like auto-generated documentation.
