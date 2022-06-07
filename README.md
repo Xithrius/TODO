@@ -45,3 +45,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Create a repository for data structures in different languages
 - [ ] A simple website which just counts up from unix time
 - [ ] Make something with FastAPI
+- [ ] Learn the C# programming language
