@@ -46,3 +46,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] A simple website which just counts up from unix time
 - [ ] Make something with FastAPI
 - [ ] Learn the C# programming language
+- [ ] Make a mod in Minecraft
