@@ -47,3 +47,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Make something with FastAPI
 - [ ] Learn the C# programming language
 - [ ] Make a mod in Minecraft
+- [ ] Simple card games in Rust, as example project of best practices
