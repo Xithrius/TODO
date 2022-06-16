@@ -48,3 +48,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Learn the C# programming language
 - [ ] Make a mod in Minecraft
 - [ ] Simple card games in Rust, as example project of best practices
+- [ ] Make a Discord bot that would actually be used by a good sum of people and is useful
