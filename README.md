@@ -31,8 +31,6 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [x] [Make guides on website](https://github.com/Xithrius/xithrius.cloud/issues/43)
 - [ ] Detect room temperature with ESP32 module, temp/humidity sensor
   - [ ] During the summer, acquire window fan to be controlled with previously said electronics
-- [ ] Make keybind in i3wm to switch between different configs, with auto-reloading
-  - [ ] This can be done with symlinks
 - [x] [gitea](https://docs.gitea.io/en-us) server, because GitLab took too much system resources
   - [ ] Add the [woodpecker-ci](https://github.com/woodpecker-ci/woodpecker) system
   - [ ] Get a bunch of integrations from the [gitea-awesome](https://gitea.com/gitea/awesome-gitea) list
