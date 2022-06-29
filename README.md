@@ -10,7 +10,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 
 ### Projects:
 - [x] [Twitch TUI](https://github.com/Xithrius/twitch-tui)
-- [ ] [Timezone tracker](https://github.com/Xithrius/timezone-tracker)
+- [x] [Timezone tracker](https://github.com/Xithrius/timezone-tracker)
 - [ ] GitHub bot for analyzing merged PRs
 - [ ] `git diff`/PR statistics bot
   - [ ] Using the [Xyrrokkin repository](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written using the Rust Org's [triage bot](https://github.com/rust-lang/triagebot/) for reference  
