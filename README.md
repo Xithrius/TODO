@@ -12,13 +12,9 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [x] [Twitch TUI](https://github.com/Xithrius/twitch-tui)
 - [x] [Timezone tracker](https://github.com/Xithrius/timezone-tracker)
 - [ ] GitHub bot for analyzing merged PRs
-- [ ] `git diff`/PR statistics bot
-  - [ ] Using the [Xyrrokkin repository](https://github.com/Xithrius/Xyrrokkin), which needs to be re-written using the Rust Org's [triage bot](https://github.com/rust-lang/triagebot/) for reference  
-  - [ ] Automatic metrics disabled by default
-  - [ ] Pingable for commands, which includes enabling automatic metrics 
+- [ ] Rust `git diff` statistics crate
 - [x] [Markdown table generator](https://github.com/Xithrius/markdown-table-rs)
-- [ ] IRC
-- [ ] Mapping stars on a 2d plane
+- [ ] CLI IRC
 - [ ] [Discord bot for plotting](https://github.com/Xithrius/Xythrion)
   - [ ] Lexer in Rust for parsing and processing math expressions
   - [ ] Discord bot in Python for requesting from the Rust webserver
@@ -27,7 +23,8 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Gameboy emulator
 - [ ] RISCV emulator
 - [ ] File explorer
-- [ ] Do something with [wpu](https://docs.rs/wgpu/0.12.0/wgpu/). [Here](https://sotrh.github.io/learn-wgpu/beginner/tutorial1-window/) is a tutorial.
+- [ ] Do something with [wpu](https://docs.rs/wgpu/0.12.0/wgpu/)
+  - [ ][Here](https://sotrh.github.io/learn-wgpu/beginner/tutorial1-window/) is a tutorial
 - [x] [Make guides on website](https://github.com/Xithrius/xithrius.cloud/issues/43)
 - [ ] Detect room temperature with ESP32 module, temp/humidity sensor
   - [ ] During the summer, acquire window fan to be controlled with previously said electronics
@@ -38,13 +35,14 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] X11 API ports in Rust
 - [x] Create own [polybar](https://github.com/polybar/polybar) theme
 - [ ] Make a mod in Factorio
-- [ ] Rust TUI template repository
+- [x] Rust TUI template repository
 - [ ] Interpreter/compiler for own language, written in Rust or Haskell 
 - [ ] GitHub label templates with a bot
 - [ ] Create a repository for data structures in different languages
-- [ ] A simple website which just counts up from unix time
+- [ ] A simple website which just counts up from unix time, and towards Y3K
 - [ ] Make something with FastAPI
 - [x] Learn the C# programming language
 - [ ] Make a mod in Minecraft
 - [ ] Simple card games in Rust, as example project of best practices
-- [ ] Make a Discord bot that would actually be used by a good sum of people and is useful
+- [ ] Daily emails (weather? reminders?) with mailgun
+- [ ] Use [webhook(s)](https://github.com/adnanh/webhook) to get auto-redeployment of server(s)
