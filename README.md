@@ -20,29 +20,17 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
   - [ ] Discord bot in Python for requesting from the Rust webserver
   - [ ] Webserver in Rust to handle all the requests
 - [x] GitLab server
-- [ ] Gameboy emulator
-- [ ] RISCV emulator
-- [ ] File explorer
-- [ ] Do something with [wpu](https://docs.rs/wgpu/0.12.0/wgpu/)
-  - [ ][Here](https://sotrh.github.io/learn-wgpu/beginner/tutorial1-window/) is a tutorial
-- [x] [Make guides on website](https://github.com/Xithrius/xithrius.cloud/issues/43)
+- [x] [Make guides on website](https://github.com/Xithrius/xithrius.cloud/tree/main/site_guides)
 - [ ] Detect room temperature with ESP32 module, temp/humidity sensor
   - [ ] During the summer, acquire window fan to be controlled with previously said electronics
-- [x] Create a home server (RPI, old computer, etc) with a cloudflare tunnel
+- [x] [Create a home server](https://github.com/Xithrius/titan.xithrius.cloud)
 - [x] [gitea](https://docs.gitea.io/en-us) server, because GitLab took too much system resources
   - [ ] Add the [woodpecker-ci](https://github.com/woodpecker-ci/woodpecker) system
   - [ ] Get a bunch of integrations from the [gitea-awesome](https://gitea.com/gitea/awesome-gitea) list
-- [ ] X11 API ports in Rust
-- [x] Create own [polybar](https://github.com/polybar/polybar) theme
-- [ ] Make a mod in Factorio
-- [x] Rust TUI template repository
+- [x] Create own [polybar theme/config](https://github.com/Xithrius/dotfiles/tree/main/.config/polybar)
+- [x] [Rust TUI template repository](https://github.com/Xithrius/rust-tui-project-template)
 - [ ] Interpreter/compiler for own language, written in Rust or Haskell 
 - [ ] GitHub label templates with a bot
-- [ ] Create a repository for data structures in different languages
 - [ ] A simple website which just counts up from unix time, and towards Y3K
-- [ ] Make something with FastAPI
-- [x] Learn the C# programming language
-- [ ] Make a mod in Minecraft
-- [ ] Simple card games in Rust, as example project of best practices
-- [ ] Daily emails (weather? reminders?) with mailgun
+- [ ] Daily emails (weather? reminders?) with mailgun, or some docker container
 - [ ] Use [webhook(s)](https://github.com/adnanh/webhook) to get auto-redeployment of server(s)
