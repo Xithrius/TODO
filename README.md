@@ -15,10 +15,7 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] Rust `git diff` statistics crate
 - [x] [Markdown table generator](https://github.com/Xithrius/markdown-table-rs)
 - [ ] CLI IRC
-- [ ] [Discord bot for plotting](https://github.com/Xithrius/Xythrion)
-  - [ ] Lexer in Rust for parsing and processing math expressions
-  - [ ] Discord bot in Python for requesting from the Rust webserver
-  - [ ] Webserver in Rust to handle all the requests
+- [ ] [Discord bot for graphing](https://github.com/Xithrius/Xythrion)
 - [x] GitLab server
 - [x] [Make guides on website](https://github.com/Xithrius/xithrius.cloud/tree/main/site_guides)
 - [ ] Detect room temperature with ESP32 module, temp/humidity sensor
