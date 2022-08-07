@@ -31,4 +31,4 @@ Pulled directly from my brain. If you have suggestions, [create an issue](https:
 - [ ] A simple website which just counts up from unix time, and towards Y3K
 - [ ] Daily emails (weather? reminders?) with mailgun, or some docker container
 - [ ] Use [webhook(s)](https://github.com/adnanh/webhook) to get auto-redeployment of server(s)
-- [ ] Move this list to a subdomain of `xithrius.cloud`
+- [x] Move this list to a subdomain of `xithrius.cloud`
